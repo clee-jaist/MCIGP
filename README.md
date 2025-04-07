@@ -1,2 +1,2 @@
 # MCIGP
-Monozone-centric Instance Grasping Policy in Large-scale Dense Clutter
+The code is being prepared and will be released within one month.
