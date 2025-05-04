@@ -50,14 +50,14 @@ The code was deployed by UFactory 850/Xarm5 Robot and Intel Realsense D435i.
 1. Download and extract the [OCID Dataset](https://files.icg.tugraz.at/d/777515d0f6e74ed183c2/).
 
 
-## Pre-trained Grasping Models
+## Pre-trained Original Grasping Model
 
 Has been included in this code as 'GRconvnet_RGBD_epoch_40_iou_0.52'.
 
 ## Pre-trained SAM model
-Please refer to this repository [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) 
+Please refer to this repository [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything).
 
-## Training and predicting for original grasping model
+## Training and Predicting for Original Grasping Model
 
 Training is done by the `train_network`, predicting is done by `grasp detection`.
 
