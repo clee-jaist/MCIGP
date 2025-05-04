@@ -416,7 +416,7 @@ if __name__ == '__main__':
                                             graspable_points_adjacent.append(grasp_point)
 
                                 if len(graspable_points_adjacent) != 0:
-                                    print("can grasp now, rotated角度为:", rotation)
+                                    print("can grasp now, rotated angle:", rotation)
                                     break
 
                             if len(graspable_points_adjacent) == 0:
