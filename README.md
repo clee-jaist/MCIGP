@@ -63,7 +63,7 @@ Training is done by the `train_network`, predicting is done by `grasp detection`
 
 ## Running on a Robot
 
-1. Real robot grasping is done by `MCIGP grasping`
+1. Real robot grasping is done by `MCIGP grasping`.
 2. Note: Please use your own hand-eye calibration results when deploying.
 
 <p align="center">
