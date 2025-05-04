@@ -36,8 +36,8 @@ pip install -r requirements.txt
 
 The code was deployed by UFactory 850/Xarm5 Robot and Intel Realsense D435i.
 
-1. UFactory Robot API: [https://github.com/xArm-Developer/xArm-Python-SDK](https://github.com/xArm-Developer/xArm-Python-SDK) 
-2. Intel Realsense API: [https://github.com/IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) 
+1. UFactory Robot API: [https://github.com/xArm-Developer/xArm-Python-SDK](https://github.com/xArm-Developer/xArm-Python-SDK).
+2. Intel Realsense API: [https://github.com/IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense).
 
 ## Datasets
 
