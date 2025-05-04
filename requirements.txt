@@ -1,0 +1,9 @@
+numpy
+python
+torch
+torchvision
+torchsummary
+tensorboardX
+xarm-python-sdk
+pyrealsense2
+
