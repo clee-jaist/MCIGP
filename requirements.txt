@@ -4,6 +4,7 @@ torch
 torchvision
 torchsummary
 tensorboardX
+pillow
 xarm-python-sdk
 pyrealsense2
 
