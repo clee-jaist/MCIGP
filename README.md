@@ -22,11 +22,11 @@ If you use this work, please cite:
 
 **Contact**
 
-Any questions or comments contact [Chenghao Li](chenghao.li@jaist.ac.jp).
+Any questions or comments, contact [Chenghao Li](chenghao.li@jaist.ac.jp).
 
 ## Installation
 
-This code was developed with Python 3.7. Requirements can installed by:
+This code was developed with Python 3.7. Requirements can be installed by:
 
 ```bash
 pip install -r requirements.txt
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Hardware
 
-The code was deployed by UFactory 850/Xarm5 Robot and Intel Realsense D435i.
+The code was deployed by the UFactory 850/Xarm5 Robot and Intel RealSense D435i.
 
 1. UFactory Robot API: [https://github.com/xArm-Developer/xArm-Python-SDK](https://github.com/xArm-Developer/xArm-Python-SDK).
 2. Intel Realsense API: [https://github.com/IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense).
@@ -57,9 +57,9 @@ Has been included in this code as 'GRconvnet_RGBD_epoch_40_iou_0.52'.
 ## Pre-trained SAM model
 Please refer to this repository [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything).
 
-## Training and Predicting for Original Grasping Model
+## Training and Predicting for the Original Grasping Model
 
-Training is done by the `train_network`, predicting is done by `grasp detection`.
+Training is done by the `train_network`, and predicting is done by `grasp detection`.
 
 ## Running on a Robot
 
