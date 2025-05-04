@@ -64,7 +64,7 @@ Training is done by the `train_network`, predicting is done by `grasp detection`
 ## Running on a Robot
 
 1. Real robot grasping is done by `MCIGP grasping`
-Note: Please use your own hand-eye calibration results when deploying.
+2. Note: Please use your own hand-eye calibration results when deploying.
 
 <p align="center">
 <img src="fig.6.jpg" width="100%"/>
@@ -73,6 +73,3 @@ Note: Please use your own hand-eye calibration results when deploying.
 <p align="center">
 <img src="fig.7.jpg" width="100%"/>
 <br>
-
-
-All grasping videos are recoded at: https://www.youtube.com/@chenghaoli4532/playlists
