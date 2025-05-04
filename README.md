@@ -9,7 +9,7 @@ The MCIGP is designed to realize grasping in large-scale dense clutter scenarios
 
 [arXiv](https://arxiv.org/abs/2409.06959) | [All Experimental Videos](https://www.youtube.com/@chenghaoli4532/playlists)
 
-If you use this work, please cite:
+If you use this work, please cite (initial version):
 
 ```text
 @inproceedings{clee2025pmsgp,
