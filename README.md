@@ -7,7 +7,7 @@
 The MCIGP is designed to realize grasping in large-scale dense clutter scenarios. Specifically, the first part is the Monozone View Alignment (MVA), wherein we design the dynamic monozone that can align the camera view according to different objects during grasping, thereby alleviating view boundary effects and realizing grasping in large-scale dense clutter scenarios. Then, we devise the Instance-specific Grasp Detection (ISGD) to predict and optimize grasp candidates for one specific object within the monozone, ensuring an in-depth analysis of this object.
 
 
-[arXiv](https://arxiv.org/abs/2409.06959) | [All Experimental Videos](https://youtu.be/CFlSAr5F-sI?si=UwgGsyhBBc6adlEG)
+[arXiv](https://arxiv.org/abs/2409.06959) | [All Experimental Videos](https://www.youtube.com/@chenghaoli4532/playlists)
 
 If you use this work, please cite:
 
