@@ -602,7 +602,7 @@ if __name__ == '__main__':
 
                                 # Note: please use your own hand-eye relation, here we only use translation.
                                 calibration_result = [0.0852, - 0.026, 0.18]
-                                robot_pos = (campos[1] + 0.0682, 0.025 - campos[0])
+                                robot_pos = (campos[1] + 1, 2 - campos[0])
 
                                 arm.set_tool_position(x=robot_pos[0] * 1000, y=robot_pos[1] * 1000, z=0,
                                                       roll=0, pitch=0, yaw=0, speed=200,
